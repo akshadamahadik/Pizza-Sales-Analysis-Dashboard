@@ -1,9 +1,13 @@
 **🍕 Pizza Place Sales Analysis Dashboard**
+
+--------------------------------------
 **📊 Project Overview**
 
 This Power BI project analyzes sales performance for a pizza store using interactive visuals and KPIs.
+
 It helps identify sales trends, best-selling pizzas, and category performance to make data-driven decisions.
 
+---------------------------------------------------------
 **🚀 Key Insights**
 
 **Total Sales**: ₹817.86K
@@ -13,6 +17,7 @@ It helps identify sales trends, best-selling pizzas, and category performance to
 **Average Pizzas per Order**: 2.28
 
 **Total Pizzas Sold**: 50K
+
 
 📈 The dashboard provides insights into:
 
@@ -24,6 +29,8 @@ It helps identify sales trends, best-selling pizzas, and category performance to
 
 **Top 5 & Bottom 5 Best-Selling Pizzas**
 
+-----------------------------------------------------------------------
+
 **🧠 Features**
 
 Interactive **filters** (by Name, Size, and Category)
@@ -33,6 +40,8 @@ Dynamic **KPIs** and **visuals** for quick decision-making
 **Category-wise** and **size-wise** comparisons
 
 **Pie charts, bar charts, and line graphs** for better visualization
+
+------------------------------------------------------------------------------------------------
 
 **🗂️ Dataset Details**
 
@@ -45,6 +54,9 @@ pizza.csv	              Includes pizza ID, name, size, and type
 pizza_types.csv	        Provides information about pizza categories and ingredients
 
 
+------------------------------------
+
+
 **🛠️ Tools & Technologies**
 
 **1 Power BI Desktop**
@@ -54,6 +66,8 @@ pizza_types.csv	        Provides information about pizza categories and ingredie
 **3 DAX** for KPI calculations
 
 **4 Data Cleaning & Model Relationships**
+
+----------------------------------------------
 
 **📸 Dashboard Preview**
 
@@ -67,6 +81,8 @@ pizza_types.csv	        Provides information about pizza categories and ingredie
 
 **4Total Pizzas Sold** = SUM(order_details.quantity)
 
+--------------------------------------------
+
 **🧩 How to Use**
 
 1 Download the repository.
@@ -77,10 +93,12 @@ pizza_types.csv	        Provides information about pizza categories and ingredie
 
 4 Explore visuals using slicers and filters.
 
+--------------------------------------------------
 **🏁 Project Goal**
 
 To provide a **data-driven business overview** of pizza sales and help identify areas for growth.
 
+--------------------------------------------------
 
 **👩‍💻 Author**
 
