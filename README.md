@@ -9,7 +9,8 @@ It helps identify sales trends, best-selling pizzas, and category performance to
 
 
 ---------------------------------------------------------
-[Live link] (https://app.powerbi.com/groups/me/reports/415694d3-394f-4563-95e0-c6c1113601f6/4c703f4902a3e54bebca?experience=power-bi)
+🔗 **Live Dashboard:** [View Here]([https://app.powerbi.com/view?r=eyJrIjoiMT...&t=12345](https://app.powerbi.com/view?r=eyJrIjoiZjQ2OTg2MWYtOTcyZS00ZmU3LWI0ZjgtMjdhN2M4M2ZmOGIyIiwidCI6IjMwZDhiNjVlLWUyOWEtNDY3My1iZjllLTZhOWM3YjBmNThmNSJ9))
+
 ----------------------------------------------------------
 **🚀 Key Insights**
 
