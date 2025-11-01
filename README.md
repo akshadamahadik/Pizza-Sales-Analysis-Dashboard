@@ -7,7 +7,10 @@ This Power BI project analyzes sales performance for a pizza store using interac
 
 It helps identify sales trends, best-selling pizzas, and category performance to make data-driven decisions.
 
+
 ---------------------------------------------------------
+(**Live link** ) [https://app.powerbi.com/groups/me/reports/415694d3-394f-4563-95e0-c6c1113601f6/4c703f4902a3e54bebca?experience=power-bi]
+----------------------------------------------------------
 **🚀 Key Insights**
 
 **Total Sales**: ₹817.86K
